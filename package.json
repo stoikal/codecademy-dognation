@@ -1,0 +1,16 @@
+{
+  "name": "dognation",
+  "version": "0.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "20",
+    "npm": "10"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
